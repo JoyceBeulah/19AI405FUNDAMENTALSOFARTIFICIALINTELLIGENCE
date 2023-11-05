@@ -108,9 +108,6 @@ else:
 
 <hr>
 <h2>Sample Input and Output:</h2>
-SEND = 9567<br>
-MORE = 1085<br>
-<hr>
 
 ![image](https://github.com/JoyceBeulah/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/118343698/1302fdcf-38f3-4443-a379-e89ec84ee897)
 
