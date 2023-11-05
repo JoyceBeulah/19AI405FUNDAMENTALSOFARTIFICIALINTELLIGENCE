@@ -99,8 +99,6 @@ F H <BR>
 
 ![image](https://github.com/JoyceBeulah/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/118343698/a0368e5e-9074-4e1b-8f7f-a0e9b1d81bec)
 
-['A', 'B', 'E', 'D', 'C', 'G', 'F', 'H']
-
 <hr>
 <h3>Result:</h3>
 <hr>
