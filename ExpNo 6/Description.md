@@ -214,9 +214,13 @@ if __name__ == "__main__":
 <h2>Sample Input and Output:</h2>
 
 ![image](https://github.com/JoyceBeulah/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/118343698/0c4b6d6b-04f8-4fd9-b8ee-05a2eb8a8d16)
+
 ![image](https://github.com/JoyceBeulah/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/118343698/9e3f2a12-f836-42f2-b8a8-07384ad43bab)
+
 ![image](https://github.com/JoyceBeulah/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/118343698/374bac1f-577d-4ef2-a61f-89d0a2aa9a02)
+
 ![image](https://github.com/JoyceBeulah/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/118343698/687ed89e-acaa-4de2-bec3-5df8a8b57420)
+
 ![image](https://github.com/JoyceBeulah/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/118343698/374af14b-1874-4391-ad42-57adb3da8d6e)
 
 <h2>Result:</h2>
